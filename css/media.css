@@ -658,7 +658,7 @@
         justify-content: center;
     }
     .content__sidebar{
-        position: static;
+        position: relative;
     }
     .content__sidebar {
         width: 100%;
